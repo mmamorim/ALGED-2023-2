@@ -2,9 +2,13 @@ import java.util.Random;
 
 public class Prog {
     public static void main(String args[]) {
-        int vetor[] = new int[10];
+        int vetor[] = new int[100000];
         preencheAleatorio(vetor, 100);
         imprime(vetor);
+        Sort sort = new Sort();
+        sort.insertion(vetor);
+        imprime(vetor);
+        sort.stats();
     }
 
     public static void preencheAleatorio(int[] v, int max) {
