@@ -2,11 +2,11 @@ import java.util.Random;
 
 public class Prog {
     public static void main(String args[]) {
-        int vetor[] = new int[100000];
+        int vetor[] = new int[10];
         preencheAleatorio(vetor, 100);
         imprime(vetor);
         Sort sort = new Sort();
-        sort.insertion(vetor);
+        sort.mergeSort(vetor, 0, 9);
         imprime(vetor);
         sort.stats();
     }
