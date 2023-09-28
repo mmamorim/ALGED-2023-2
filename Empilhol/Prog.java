@@ -1,5 +1,7 @@
 package Empilhol;
 
+import Empilhol.Tokenizer.Tokenizer;
+
 public class Prog {
     public static void main(String args[]) {
 
