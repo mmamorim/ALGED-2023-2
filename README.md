@@ -1,5 +1,10 @@
 # UC - Algoritmos e Estrutura de Dados - 2023/2
 
+# Implementação da A3
+
+* ver repositório [Empilhol](https://github.com/mmamorim/Empilhol)
+
+
 ## prof Marcelo
 
 * Aula03 (13/09) - Ordenação O(n²) 
