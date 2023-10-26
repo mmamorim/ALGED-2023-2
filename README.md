@@ -2,7 +2,7 @@
 
 # Implementação da A3
 
-* ver repositório [Empilhol](https://github.com/mmamorim/Empilhol)
+* Parte 1 (Pessoas conhecem pessoas) [Parser.java](/Parser/Parser.java) / [Teste.java](/Parser/Teste.java)
 
 ## prof Marcelo - Aulas
 
