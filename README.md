@@ -2,7 +2,7 @@
 
 # Implementação da A3
 
-* [Enunciado A3](/a3/README.md) 
+* [Enunciado A3](/a3) 
 * Parte 1 (Pessoas conhecem pessoas) [Parser.java](/Parser/Parser.java) / [Teste.java](/Parser/Teste.java)
 
 ## prof Marcelo - Aulas
