@@ -1,9 +1,9 @@
 # UC - Algoritmos e Estrutura de Dados - 2023/2
 
-# Implementação da A3
+# Implementação da A3 🛸👨‍💻
 
-* [Enunciado A3](/a3) 
-* Parte 1 (Pessoas conhecem pessoas) [Parser.java](/Parser/Parser.java) / [Teste.java](/Parser/Teste.java)
+#### * 🔥🔥 [Enunciado A3](https://github.com/mmamorim/ALGED-A3) 🔥🔥 
+https://github.com/mmamorim/ALGED-A3 Atualizado em: **```01/11```** 
 
 ## prof Marcelo - Aulas
 
